@@ -1,5 +1,7 @@
 # Perl 6 documentation: Season of Doc ideas
 
+<img src="img/tpf_logo_transparent.png" width="300px" align="right" alt="TPF">
+
 Ideas for Google Season of Docs. These must be focused on a single
 project, and in principle there will be a single mentor for the chosen
 persons of persons.
