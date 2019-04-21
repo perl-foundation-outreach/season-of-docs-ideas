@@ -18,7 +18,8 @@ Two ideas have been proposed for this:
 
 * [Bring documentation up-to-date with 6.d](docs.md)
 * [Work on *big* issues on the repository](big.md).
-* [Outstanding issues in the documentation repository](https://github.com/perl6/doc/issues). These
+
+Additionally, another general idea is to simply work in the [outstanding issues in the documentation repository](https://github.com/perl6/doc/issues). These
   issues include from errors and improvements, through the *big*
   issues indicated above, to tooling problems or improvements. They
   are well structured and labeled, so just generally addressing and
