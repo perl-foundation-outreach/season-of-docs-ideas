@@ -2,7 +2,8 @@
 
 <img src="img/tpf_logo_transparent.png" width="300px" align="right" alt="TPF">
 
-Ideas for Google Season of Docs. These must be focused on a single
+This is a repository with ideas
+about [Perl 6 documentation](https://docs.perl6.org) for [Google Season of Docs](https://developers.google.com/season-of-docs/). These must be focused on a single
 project, and in principle there will be a single mentor for the chosen
 persons of persons.
 
