@@ -1,2 +1,18 @@
-# season-of-docs-ideas
-Ideas for Google Season of Docs
+# Perl 6 documentation: Season of Doc ideas
+
+Ideas for Google Season of Docs. These must be focused on a single
+project, and in principle there will be a single mentor for the chosen
+persons of persons.
+
+JJ Merelo is already the main contributor
+to [Perl 6 documentation](https://github.com/perl6/doc) and has been
+contributing to it for around 18 months. However, initially the chosen
+person will be working via pull requests, and there are many persons
+with permission to review and merge those pull requests, so it is
+going to be more of a distributed effort.
+
+Two ideas have been proposed for this:
+
+* [Bring documentation up-to-date with 6.d](docs.md)
+* [Work on *big* issues on the repository](big.md).
+
