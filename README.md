@@ -5,7 +5,7 @@
 This is a repository with ideas
 about [Perl 6 documentation](https://docs.perl6.org) for [Google Season of Docs](https://developers.google.com/season-of-docs/). These must be focused on a single
 project, and in principle there will be a single mentor for the chosen
-persons of persons.
+persons or persons.
 
 JJ Merelo is already the main contributor
 to [Perl 6 documentation](https://github.com/perl6/doc) and has been
@@ -27,6 +27,10 @@ Additionally, another general idea is to simply work in the [outstanding issues 
   documentation. During season of docs one or
   several
   [Squashathon](https://github.com/perl6/doc/blob/master/writing-docs/SQUASHATHONS.md)s
-  devoted to documentation will take place. The person would be
+  devoted to documentation will take place. The person(s) would be
   expected to help organize them, as well as work and collaborate with them.
 
+## Contact
+
+Contact JJ Merelo (jjmerelo at GMail) or use issues to propose new
+ideas or express your interest in participating as a writer.
