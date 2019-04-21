@@ -28,32 +28,42 @@ cases.
 Expected outcomes
 -----------------
 
-* Bringing documentation up to date with version 6.d
-* Address other issues that have some relationship with this issue,
-  such
-  as
-  [2688](https://github.com/perl6/doc/issues/2688),
-  [2694](https://github.com/perl6/doc/issues/2694)
-  or [2703](https://github.com/perl6/doc/issues/2703).
-* Feed back on [issue 2690](https://github.com/perl6/doc/issues/2690),
-  helping design and create tools that make easier to keep
-  documentation up to date.
-* If time
-  allows,
-  [work revision of the next release](https://github.com/perl6/doc/issues/2673). 
+*
+  Document
+  [`*REPO` and CUR classes](https://github.com/perl6/doc/issues/502). This
+  is a set of classes which describe how modules are preprocessed, and
+  how to work with them. It needs to be written from scratch.
+  
+* [Exceptions](https://github.com/perl6/doc/issues/516) are quite
+  numerous, and
+  mostly [undocumented](https://github.com/perl6/doc/issues/517). It
+  will help if it's reorganized, a a dedicated tutorial is written
+  from scratch. [Control exceptions are undocumented either](https://github.com/perl6/doc/issues/1268)
+  
+*
+  [The documentation on contexts](https://github.com/perl6/doc/issues/1225) is
+  quite incomplete. The discussion on the issue is quite long,
+  and can be incorporated into the documentation, too.
+
+* Traits are not well documented
+  either: [here](https://github.com/perl6/doc/issues/1957)
+  and [here](https://github.com/perl6/doc/issues/2718), as well
+  as [here](https://github.com/perl6/doc/issues/2714)
+  and [here](https://github.com/perl6/doc/issues/1730).
+
 
 Required skills
 ---------------
 
-Required or prefered skills the student should have to be able to
+Required or prefered skills the person should have to be able to
 tackle this project.
 
-* Some experience with Perl 6 is appreciated, but not really
-  needed. Will to learn will be a requisite. The candidate will be
+* Some prior experience with Perl 6 is appreciated, but not really
+  needed. Will to learn it will be a requisite. The candidate will be
   expected to be able to write, run and test short programs to be used
   as examples in the documentation.
 * Good, working knowledge of English.
-
+* Good knowledge of git and GitHub.
 
 Rating
 ------

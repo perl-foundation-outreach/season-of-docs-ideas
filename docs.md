@@ -47,7 +47,7 @@ tackle this project.
   expected to be able to write, run and test short programs to be used
   as examples in the documentation.
 * Good, working knowledge of English.
-
+* Good knowledge of GitHub as a collaborative working platform.
 
 Rating
 ------
