@@ -1,10 +1,10 @@
-*Big* issues in Perl 6 documentation
+*Big* issues in Raku documentation
 ========================
 
 Description
 -----------
 
-Perl 6 documentation was, from the beginning, decoupled from language
+Raku documentation was, from the beginning, decoupled from language
 development. It was thus started much later than language itself, and
 mainly done by people not involved in the programming effort
 itself. This essentially resulted in a decoupling of both efforts,
@@ -28,23 +28,17 @@ cases.
 Expected outcomes
 -----------------
 
-*
-  Document
+* Document
   [`*REPO` and CUR classes](https://github.com/perl6/doc/issues/502). This
   is a set of classes which describe how modules are preprocessed, and
   how to work with them. It needs to be written from scratch.
-  
+
 * [Exceptions](https://github.com/perl6/doc/issues/516) are quite
   numerous, and
   mostly [undocumented](https://github.com/perl6/doc/issues/517). It
   will help if it's reorganized, a a dedicated tutorial is written
   from scratch. [Control exceptions are undocumented either](https://github.com/perl6/doc/issues/1268)
   
-*
-  [The documentation on contexts](https://github.com/perl6/doc/issues/1225) is
-  quite incomplete. The discussion on the issue is quite long,
-  and can be incorporated into the documentation, too.
-
 * Traits are not well documented
   either: [here](https://github.com/perl6/doc/issues/1957)
   and [here](https://github.com/perl6/doc/issues/2718), as well
@@ -58,7 +52,7 @@ Required skills
 Required or prefered skills the person should have to be able to
 tackle this project.
 
-* Some prior experience with Perl 6 is appreciated, but not really
+* Some prior experience with Raku is appreciated, but not really
   needed. Will to learn it will be a requisite. The candidate will be
   expected to be able to write, run and test short programs to be used
   as examples in the documentation.
