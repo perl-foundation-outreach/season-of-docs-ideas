@@ -20,7 +20,16 @@ old features) are still not part of the documentation.
 Taken directly from the 6.d
 specification, [this issue](https://github.com/perl6/doc/issues/2632)
 was created to keep track of changes, and also to ask for
-clarifications and comment on issued. 
+clarifications and comment on issued. Issues that specify additions
+and changes for new releases are grouped in the
+[`versions`](https://github.com/Raku/doc/labels/versions) label, and
+work is way behind on these.
+
+Additionally, since that new release, the name of the language has
+been changed to Raku (from Perl 6), which has implied also change of
+name of several features. The adaptation to the new name has been
+grouped in a [milestone](https://github.com/Raku/doc/milestone/3), and
+it's still ongoing. 
 
 
 Expected outcomes
