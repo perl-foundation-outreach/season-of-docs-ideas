@@ -4,38 +4,36 @@ Update Raku documentation to latest version
 Description
 -----------
 
-In November 2018, a new version of Raku, 6.d, was
-produced. This new version introduced a few hundred new features,
-making some other obsolete. There were no major grammar or functional
-changes, but the language overall was made much more coherent; ambiguities were solved, and features were uniformized. 
+In November 2018, a new version of Raku, 6.d, was produced. This new
+version introduced a few hundred new features, making some other
+obsolete. There were no major grammar or functional changes, but the
+language overall was made much more coherent; ambiguities were solved,
+and features were uniformized.
 
-Unfortunately, being the documentation a separate (and volunteer)
-effort, those working on it could not really keep up to date. More than one year, most of features are already checked, but there are still a few to go.
-Additionally, new versions have been produced since then, up to an
-including the last one, 2020.02.1. Every new version also includes
-changes to the documentation of the same nature; in general, these
-have not been addressed, and most new features (or clarifications of
-old features) are still not part of the documentation.
+Unfortunately, being the documentation a separate (and also volunteer)
+effort, those working on it could not really keep up to date. More
+than one year, most of features are already checked, but there are
+still a few to go.  Additionally, new versions have been produced
+since then, up to an including the last one, 2021.03. Every new
+version also includes changes to the language, which raises issues in
+the documentation documentation of the same nature;
+in general, these have not been addressed, and most new features (or
+clarifications or fixes of old features) are still not part of the
+documentation.
 
-Taken directly from the 6.d
-specification, [this issue](https://github.com/perl6/doc/issues/2632)
-was created to keep track of changes, and also to ask for
-clarifications and comment on issued. Issues that specify additions
+Issues that specify additions
 and changes for new releases are grouped in the
 [`versions`](https://github.com/Raku/doc/labels/versions) label, and
-work is way behind on these.
-
-Additionally, since that new release, the name of the language has
-been changed to Raku (from Perl 6), which has implied also change of
-name of several features. The adaptation to the new name has been
-grouped in a [milestone](https://github.com/Raku/doc/milestone/3), and
-it's still ongoing. 
+work is way behind on these. Most of them do not involve a lot of
+investigation, and are purely updates; as a matter of fact, they can
+be easily used for onboarding anyone that might want to help
+documenting Raku.
 
 
 Expected outcomes
 -----------------
 
-* Bringing documentation up to date with version 6.d and beyond,
+* Bringing documentation up to date with version latest releases,
   within the possibilities of the season of docs allotment of work.
 * Address other issues that have some relationship with this issue,
   such
@@ -43,10 +41,12 @@ Expected outcomes
   [2688](https://github.com/perl6/doc/issues/2688),
   [2694](https://github.com/perl6/doc/issues/2694)
   or [2703](https://github.com/perl6/doc/issues/2703).
-* Create tools that make easier synchronization of documentation with
+
+* As a bonus, the candidate might help create tools that make easier
+  synchronization of documentation with
   changes, such as checking source code of Rakudo (the Raku compiler)
   and see if the the definitions of functions in the documentation are
-  correct. 
+  correct.
 
 
 Required skills
@@ -71,7 +71,7 @@ Medium.
 Possible mentors
 ----------------
 
-- JJ Merelo (jjmerelo@gmail.com, [GitHub](https://github.com/JJ)),
+- JJ Merelo (jj@raku.org, [GitHub](https://github.com/JJ)),
   jmerelo on Freenode.
 
 
