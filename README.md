@@ -9,11 +9,13 @@ persons or persons.
 
 JJ Merelo is already the main contributor
 to [Raku documentation](https://github.com/Raku/doc) and has been
-contributing to it for around 3 years. 
+contributing to it for around 4 years.
 
-The technical writer working on the documentation will be onboarded via easy outstanding issued in the documentation, submitted via pull requests. There are many persons
-with permission to review and merge those pull requests, so it is
-going to be more of a distributed effort.
+The technical writer working on the documentation will be onboarded
+via easy-to-solve outstanding issues in the documentation, submitted
+via pull requests. There are many persons with permission to review
+and merge those pull requests, so it is going to be more of a
+distributed effort.
 
 Two ideas have been proposed for this:
 
