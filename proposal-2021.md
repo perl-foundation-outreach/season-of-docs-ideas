@@ -57,10 +57,52 @@ familiar with Markdown, AsciiDoc or any other such language.
 
 ## Fill (big) gaps in Raku documentation
 
+As the rest of the Raku compilers and tools, the [Raku
+documentation](https://docs.raku.org) is a volunteer effort. Although
+there are a few persons, among the core developers, that is more or
+less focused on it, it still needs needs not only improvement, but
+enlargement in several areas.
+
+The documentation's main mission is to be a first go-to resource for
+those persons that are starting to learn the language, and that, once
+they're working on it, need to look up syntax or semantics of specific
+parts, classes or statements. That is why there are two big areas in
+it: the [language reference and
+tutorials](https://docs.raku.org/language.html) section, and the
+[*Types*](https://docs.raku.org/type.html) section, that works more or
+less a a reference, with pages devoted to classes, methods, routines
+and all the rest of the entities that form the language.
 
 ### Problem
 
+Most tutorials are already in place, although they have missing
+sections. However, there are some areas of the documentation which due
+to its size (number of classes there) or simply the complexity of its
+operation, have not been covered so far.
+
+Issues related to these areas were marked as [*big*](https://github.com/Raku/doc/issues?q=is%3Aissue+is%3Aopen+label%3Abig), because they
+usually involved creating many new pages from scratch, or creating
+tutorials for features that had not, so far, been documented.
+
+It's usually the size of the task that has prevented it from being
+approached by the usual cadre of volunteers, which usually focus on
+issues that can be solved in a single stretch or work, or a few of
+them. For instance the biggest and oldest of them is this issue that
+was created almost 5 years ago on the
+[`Exception`](https://github.com/Raku/doc/issues/517) types; there are
+more than a hundred classes that would need to be documented,
+including, in many cases, examples that would be meaningful in a
+particular use case (["intent, not
+syntax"](https://github.com/Raku/doc/issues/1748) is our extraofficial
+motto for examples.
+
+The rest of the *big* issues vary in size, and can be set in a
+descending order. In general, this is the kind of problem that we
+would like the technical writer to approach.
+
 ### Scope
+
+
 
 ### Measuring success
 
