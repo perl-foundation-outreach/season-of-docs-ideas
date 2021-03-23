@@ -113,7 +113,8 @@ Within the scope of this project, the person participating in it will:
   for common pitfalls, and reviewed so that they can be improved, if
   needed. During this work, help will be available from the Raku IRC
   channels, as well as, if needed, from the group of people that are
-  usually answering questions in StackOverflow.
+  usually answering questions in
+  [StackOverflow](https://stackoverflow.com/questions/tagged/raku).
 
 * For the time being, documentation works in a continuous integration
   mode; anything that's admited into the main branch is deployed,
@@ -136,6 +137,29 @@ large. The volunteers are people with a long experience in the
 documentation, and also a proved experience with the Raku language.
 
 ### Measuring success
+
+The first measure of success is the satisfactory closing of one or
+more of the *big* issues, of course, as well as lines of (doc-as) code
+written.
+
+A secondary measure of success will be overall satisfaction with the
+documentation on the part of the Raku community. Every year we produce
+a survey, and one of the questions is the satisfaction with the
+documentation. We'll check, using this tool, if satisfaction has
+increased or not. Of course, documentation is not static and is
+changing all the time, but obviously covering gaps will be one of the
+main drivers of satisfaction.
+
+Finally, the objective of the documentation is the attraction of new
+programmers to the community, and new participants to the
+documentation repository. A better documentation will attract more
+readers, that will spend more time on it, will create new projects,
+these projects will shed light on other unexplored areas of the
+docspace, which will encourage people to create pull requests and
+improve them. Our policy for giving new commit bits is quite liberal,
+and one or two pull requests are usually enough to obtain it. So if we
+manage to attract several recurring contributors to the documentation,
+that will be the ultimate measure of success.
 
 ## Budget
 
