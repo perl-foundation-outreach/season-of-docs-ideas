@@ -22,6 +22,9 @@ Two ideas have been proposed for this:
 * [Bring documentation up-to-date with latest specs](docs.md)
 * [Outstanding documentation issues](big.md).
 
+The (WIP) proposal for this year is included in [this
+document](proposal-2021) ([source](proposal-2021.md)).
+
 ## Contact
 
 Contact JJ Merelo (jjmerelo at GMail) or use issues to propose new
