@@ -2,7 +2,7 @@
 
 ## The Raku Foundation
 
-Yet another society, doing business as *The Raku Foundation*, has
+Yet Another Society, doing business as *The Raku Foundation*, has
 recently been constituted as "product owner" of Raku, to differentiate
 it from the [Perl Foundation](https://perlfoundation.org), which is
 the product owner of the Perl language and its ecosystem.
@@ -17,8 +17,8 @@ is why it eventually got its name changed to Raku in
 October 2019. This spawned a process of a certain independence from
 the sister language, which included the creation of a [Raku Steering
 Council](https://raku.github.io/Raku-Steering-Council/), voted among
-the community, and a recently released [code of
-conduct](https://raku.github.io/Raku-Steering-Council/papers/CoC),
+the community, and a recently released [Code of
+Conduct](https://raku.github.io/Raku-Steering-Council/papers/CoC),
 which also emerged from a community process.
 
 The Raku Foundation thus, while inheriting the rich experience and
@@ -41,12 +41,12 @@ repositories. All these resources are covered by the Code of Conduct,
 with the intention of making them safe spaces for everyone.
 
 Raku documentation is a volunteer effort that emerged relatively late
-in the timeline of Raku development, due mainly to the fact that is's
+in the timeline of Raku development, due mainly to the fact that it's
 using its own markup language, [Pod
 6](https://docs.raku.org/language/pod). Unlike other markup languages
 (like, for instance, the one that inspired it, [Perl
-Pod](https://perldoc.perl.org/perlpod), it's part of the Raku language
-and it's specified alongside it. That makes it specially stable, but
+Pod](https://perldoc.perl.org/perlpod)), it's part of the Raku language
+and specified alongside it. That makes it specially stable, but
 also makes it an integral part of the language, with the Raku compiler
 itself also parsing and compiling this part of the documentation.
 
