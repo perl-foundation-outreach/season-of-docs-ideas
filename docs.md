@@ -4,7 +4,7 @@ Update Raku documentation to latest version
 Description
 -----------
 
-In November 2018, a new version of Raku, 6.d, was produced. This new
+In November 2018, a new version of the Raku language, 6.d, was produced. This new
 version introduced a few hundred new features, making some other
 obsolete. There were no major grammar or functional changes, but the
 language overall was made much more coherent; ambiguities were solved,
@@ -12,8 +12,8 @@ and features were uniformized.
 
 Unfortunately, being the documentation a separate (and also volunteer)
 effort, those working on it could not really keep up to date. More
-than one year, most of features are already checked, but there are
-still a few to go.  Additionally, new versions have been produced
+than one year later, most features are already checked, but there are
+still a few to go.  Additionally, new compiler versions have been produced
 since then, up to an including the last one, 2021.03. Every new
 version also includes changes to the language, which raises issues in
 the documentation documentation of the same nature;
