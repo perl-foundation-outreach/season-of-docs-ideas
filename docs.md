@@ -29,7 +29,6 @@ investigation, and are purely updates; as a matter of fact, they can
 be easily used for onboarding anyone that might want to help
 documenting Raku.
 
-
 Expected outcomes
 -----------------
 
