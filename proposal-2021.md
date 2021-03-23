@@ -102,7 +102,38 @@ would like the technical writer to approach.
 
 ### Scope
 
+Within the scope of this project, the person participating in it will:
 
+* Revise the list of *big* issues in the documentation repository,
+  requesting clarifications where needed, and also prioritizing them
+  in agreement with the volunteers also participating on the project.
+
+* Initiate piecewise work on those big issues, creating pull request
+  that span at most one file. These PRs will be automatically checked
+  for common pitfalls, and reviewed so that they can be improved, if
+  needed. During this work, help will be available from the Raku IRC
+  channels, as well as, if needed, from the group of people that are
+  usually answering questions in StackOverflow.
+
+* For the time being, documentation works in a continuous integration
+  mode; anything that's admited into the main branch is deployed,
+  although sometimes not immediately. The work done by the technical
+  writer will be featured in Rakudo Weekly News, as well as publicized
+  within the community.
+
+* The writer will be expected also to raise new issues that pop up in
+  their exploration of the Raku language, as well as help elsewhere in
+  the Raku docs site, labeling and asking for clarification in new
+  issues, for instance, helping newcomers that have creathed their
+  first PR, or work with low-hanging fruit issues elsewhere in the
+  documentation.
+
+The volunteer stuff will be always on hand, reviewing and improving,
+and helping the writer prioritize new issues, assigning it to them or
+helping them through with any doubt they might have; also taking their
+suggestions for more general improvements of the documentation at
+large. The volunteers are people with a long experience in the
+documentation, and also a proved experience with the Raku language.
 
 ### Measuring success
 
