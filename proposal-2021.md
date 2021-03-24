@@ -3,7 +3,8 @@
 ## The Raku Foundation
 
 Yet Another Society, doing business as *The Raku Foundation*, has
-recently been constituted as "product owner" of Raku, to differentiate
+[recently](https://github.com/Raku/Raku-Steering-Council/blob/f4c246d80b61c699e948964890fc7e0b8593d67e/minutes/20210306.md)
+been constituted as "product owner" of Raku, to differentiate
 it from the [Perl Foundation](https://perlfoundation.org), which is
 the product owner of the Perl language and its ecosystem.
 
@@ -94,7 +95,7 @@ was created almost 5 years ago on the
 more than a hundred classes that would need to be documented,
 including, in many cases, examples that would be meaningful in a
 particular use case (["intent, not
-syntax"](https://github.com/Raku/doc/issues/1748) is our extraofficial
+syntax"](https://github.com/Raku/doc/issues/1748) is our extra-official
 motto for examples.
 
 The rest of the *big* issues vary in size, and can be set in a
@@ -109,7 +110,7 @@ Within the scope of this project, the person participating in it will:
   requesting clarifications where needed, and also prioritizing them
   in agreement with the volunteers also participating on the project.
 
-* Initiate piecewise work on those big issues, creating pull request
+* Initiate piece-wise work on those big issues, creating pull request
   that span at most one file. These PRs will be automatically checked
   for common pitfalls, and reviewed so that they can be improved, if
   needed. During this work, help will be available from the Raku IRC
@@ -118,7 +119,7 @@ Within the scope of this project, the person participating in it will:
   [StackOverflow](https://stackoverflow.com/questions/tagged/raku).
 
 * For the time being, documentation works in a continuous integration
-  mode; anything that's admited into the main branch is deployed,
+  mode; anything that's admitted into the main branch is deployed,
   although sometimes not immediately. The work done by the technical
   writer will be featured in Rakudo Weekly News, as well as publicized
   within the community.
@@ -126,7 +127,7 @@ Within the scope of this project, the person participating in it will:
 * The writer will be expected also to raise new issues that pop up in
   their exploration of the Raku language, as well as help elsewhere in
   the Raku docs site, labeling and asking for clarification in new
-  issues, for instance, helping newcomers that have creathed their
+  issues, for instance, helping newcomers that have created their
   first PR, or work with low-hanging fruit issues elsewhere in the
   documentation.
 
@@ -173,7 +174,7 @@ that will be the ultimate measure of success.
 | Budget item                        | Amount | Running total | Notes/justifications |
 |------------------------------------|--------|---------------|----------------------|
 | Technical writer: fill documentation gaps in the Raku docs, and work on related issues | 10000.00 | 10000.00 | Some onboarding will be necessary, and the writer needs to be paid for it. |
-| Volunteer stipends                 | 1000.00| 11000 | 2 volunteer stipeds x 500 each |
+| Volunteer stipends                 | 1000.00| 11000 | 2 volunteer stipends x 500 each |
 | Project hoodies  (10)              | 200    | 11200 | 10 hoodies for the technical writer, "official" volunteers, and other people helping. Also as doc-athon prize.
 
 The bulk of the budget goes to the technical writer, as is
@@ -195,7 +196,7 @@ documentation of Raku for 3 years, as well as contributed, mainly via
 pull requests, to many other documentation projects. He is also the
 author of two books by Apress, "Perl 6 Quick Syntax reference" and
 "Raku recipes", having thus the experience of a professional editorial
-workflow such as the one that was used in APress.
+workflow such as the one that was used in Apress.
 
 He's been acting "editor" of the Raku documentation, and as such has
 had the experience of reviewing most, if not all, pull requests and
@@ -207,8 +208,8 @@ Google.
 <!-- or Others -->
 
 The Perl Foundation has participated in Google Summer of Code in
-several ocassions, last one in 2019. We have applied for funding in
-season of docs also in two ocassions, the initial call in 2019 and
+several occasions, last one in 2019. We have applied for funding in
+season of docs also in two occasions, the initial call in 2019 and
 last year in 2020; we haven't been funded so far in this specific
 call.
 
