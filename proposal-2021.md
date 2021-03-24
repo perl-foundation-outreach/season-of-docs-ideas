@@ -4,7 +4,7 @@
 
 Yet Another Society, doing business as *The Raku Foundation*, has
 [recently](https://github.com/Raku/Raku-Steering-Council/blob/f4c246d80b61c699e948964890fc7e0b8593d67e/minutes/20210306.md)
-been constituted as "product owner" of Raku, to differentiate
+been constituted as "product owner" of the Raku Programming Language, to differentiate
 it from the [Perl Foundation](https://perlfoundation.org), which is
 the product owner of the Perl language and its ecosystem.
 
@@ -60,12 +60,12 @@ familiar with Markdown, AsciiDoc or any other such language.
 
 As the rest of the Raku compilers and tools, the [Raku
 documentation](https://docs.raku.org) is a volunteer effort. Although
-there are a few persons, among the core developers, that is more or
+there are a few persons, among the core developers, who are more or
 less focused on it, it still needs needs not only improvement, but
 enlargement in several areas.
 
 The documentation's main mission is to be a first go-to resource for
-those persons that are starting to learn the language, and that, once
+those people that are starting to learn the language, and that, once
 they're working on it, need to look up syntax or semantics of specific
 parts, classes or statements. That is why there are two big areas in
 it: the [language reference and
@@ -88,7 +88,7 @@ creating tutorials for features that had not, so far, been documented.
 
 It's usually the size of the task that has prevented it from being
 approached by the usual cadre of volunteers, which usually focus on
-issues that can be solved in a single stretch or work, or a few of
+issues that can be solved in a single stretch of work, or a few of
 them. For instance the biggest and oldest of them is this issue that
 was created almost 5 years ago on the
 [`Exception`](https://github.com/Raku/doc/issues/517) types; there are
