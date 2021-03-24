@@ -80,9 +80,10 @@ sections. However, there are some areas of the documentation which due
 to its size (number of classes there) or simply the complexity of its
 operation, have not been covered so far.
 
-Issues related to these areas were marked as [*big*](https://github.com/Raku/doc/issues?q=is%3Aissue+is%3Aopen+label%3Abig), because they
-usually involved creating many new pages from scratch, or creating
-tutorials for features that had not, so far, been documented.
+Issues related to these areas were marked as
+[*big*](https://github.com/Raku/doc/issues?q=is%3Aissue+is%3Aopen+label%3Abig),
+because they usually involved creating many new pages from scratch, or
+creating tutorials for features that had not, so far, been documented.
 
 It's usually the size of the task that has prevented it from being
 approached by the usual cadre of volunteers, which usually focus on
@@ -129,6 +130,12 @@ Within the scope of this project, the person participating in it will:
   first PR, or work with low-hanging fruit issues elsewhere in the
   documentation.
 
+* The writer will be also responsible for MC'ing, along volunteers, a
+  doc-athon for the community to participate in editing Raku
+  documentation. This will also help expand the community, and the
+  writer will help onboard new people, as well as review contributions
+  from complete newbies.
+
 The volunteer stuff will be always on hand, reviewing and improving,
 and helping the writer prioritize new issues, assigning it to them or
 helping them through with any doubt they might have; also taking their
@@ -163,9 +170,49 @@ that will be the ultimate measure of success.
 
 ## Budget
 
+| Budget item                        | Amount | Running total | Notes/justifications |
+|------------------------------------|--------|---------------|----------------------|
+| Technical writer: fill documentation gaps in the Raku docs, and work on related issues | 10000.00 | 10000.00 | Some onboarding will be necessary, and the writer needs to be paid for it. |
+| Volunteer stipends                 | 1000.00| 11000 | 2 volunteer stipeds x 500 each |
+| Project hoodies  (10)              | 200    | 11200 | 10 hoodies for the technical writer, "official" volunteers, and other people helping. Also as doc-athon prize.
+
+The bulk of the budget goes to the technical writer, as is
+expected. Since there will be a certain amount of time needed for
+onboarding, we understand the writer should be paid for it too, which
+is why we have gone up to 10000$
+
+Hoodies will go to volunteers and the writer, as well as at least 5 to
+people participating (or winning a prize, depending on how many people
+we have) in a hackathon.
+
+
+
 ## Additional information
 
-<!-- Previous experience with technical writers -->
+As such, we have had no experience managing technical writers. JJ
+Merelo has been, himself, a technical writer, having worked on the
+documentation of Raku for 3 years, as well as contributed, mainly via
+pull requests, to many other documentation projects. He is also the
+author of two books by Apress, "Perl 6 Quick Syntax reference" and
+"Raku recipes", having thus the experience of a professional editorial
+workflow such as the one that was used in APress.
+
+He's been acting "editor" of the Raku documentation, and as such has
+had the experience of reviewing most, if not all, pull requests and
+also regular commits done to the documentation. We don't foresee any
+major problem dealing with a technical writer, should it be funded by
+Google.
 
 <!-- Previous participation in Season of Docs, Google Summer of Code -->
 <!-- or Others -->
+
+The Perl Foundation has participated in Google Summer of Code in
+several ocassions, last one in 2019. We have applied for funding in
+season of docs also in two ocassions, the initial call in 2019 and
+last year in 2020; we haven't been funded so far in this specific
+call.
+
+The Raku Foundation is under the same umbrella organization as The
+Perl Foundation (known as Yet Another Society) and was only recently
+recognized as such, so this is the first time it applies to Season of
+Docs (or, for that matter, anything else).
