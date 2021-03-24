@@ -1,4 +1,4 @@
-# PROPOSAL TITLE
+# Fill the thematic gaps of Raku documentation
 
 ## The Raku Foundation
 
